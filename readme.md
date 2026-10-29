@@ -37,7 +37,7 @@ Consulta la lista completa de componentes electrónicos y de hardware necesarios
 ## 📐 Esquemático y PCB
 
 ### Esquema Electrónico
-![Esquema Electrónico](img/Circuito.png)
+![Esquema Electrónico](img/Circuito.PNG)
 
 ### Diseño de la PCB
 Diseñado en una sola capa (*Single Layer*) para facilitar el ruteado y el grabado casero o fabricación de bajo costo.
