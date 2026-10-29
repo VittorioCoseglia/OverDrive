@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Pedal")(type "KiCad")(uri "${KIPRJMOD}/footprint/pedal.pretty")(options "")(descr ""))
+)
