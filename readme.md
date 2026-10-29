@@ -2,7 +2,7 @@
 
 Un pedal de efectos para guitarra basado en el clásico circuito **[Ibanez Tube Screamer](https://es.wikipedia.org/wiki/Ibanez_Tube_Screamer)**. Permite controlar y variar el nivel de saturación de la señal de audio mediante el potenciómetro de *Drive*.
 
-![Vista 3D del Pedal](img/3D.png)
+![Vista 3D del Pedal](img/3D.PNG)
 
 ---
 
@@ -42,7 +42,7 @@ Consulta la lista completa de componentes electrónicos y de hardware necesarios
 ### Diseño de la PCB
 Diseñado en una sola capa (*Single Layer*) para facilitar el ruteado y el grabado casero o fabricación de bajo costo.
 
-![Diseño de PCB](img/PCB.png)
+![Diseño de PCB](img/PCB.PNG)
 
 ---
 
@@ -50,7 +50,7 @@ Diseñado en una sola capa (*Single Layer*) para facilitar el ruteado y el graba
 
 El chasis o carcasa está optimizado para su **impresión 3D** y diseñado para ensamblarse mediante tornillos roscados **M3**.
 
-![Diseño de la Carcasa](img/Case.png)
+![Diseño de la Carcasa](img/Case.PNG)
 
 ---
 
